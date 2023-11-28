@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.bluepay.bluepay",
+    "sha256_cert_fingerprints":
+    ["1f:82:08:fc:81:b0:83:b2:fc:b0:fd:f8:07:83:54:a6:f3:27:1c:ea:0e:da:76:25:5b:67:46:b2:46:f5:88:23"]
+  }
+}]
